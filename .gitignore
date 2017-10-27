@@ -1,2 +1,3 @@
 #matlab matfile
 *.mat
+.DS_Store
